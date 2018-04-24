@@ -1,0 +1,1 @@
+This project uses node to build a logger to practice transforming data.
